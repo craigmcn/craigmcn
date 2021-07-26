@@ -3,7 +3,7 @@ I’m a front-end web developer excited about creating helpful applications buil
 - 🔭 I’m currently working on React/Redux products for the post-secondary sector
 - 😄 Pronouns: (He/Him)
 
-**About me**
+## About me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/craigmcnaughton)
 
 ## Tech stack
