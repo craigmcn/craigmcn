@@ -11,9 +11,9 @@ As a software developer, I specialize in small- to medium-sized websites, best s
 As a technical writer, I write and edit to create clear and concise procedural, how-to documents. I specialize in computer software and hardware, and financial services processes. I perform an audience analysis to determine my stakeholders, create an overview of the necessary procedures, and then work with subject matter experts to develop the appropriate content. I manage my part of the project to ensure it is on track and on schedule with any other related work. I enjoy designing effective templates for print and online user guides, and writing blogs, news messages and other intranet content or business communication. I am also skilled at writing and developing business or technical presentations.
 
 Specialties: standards-compliant HTML, CSS, PHP, Javascript (React, Redux, jQuery); online documentation and communication; content management; MySQL and SQL Server
+![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 
-### Top Languages
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=craigmcn&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=craigmcn&layout=compact)
  
 <!--
 **craigmcn/craigmcn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
