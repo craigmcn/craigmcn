@@ -1,7 +1,7 @@
 I’m a front-end web developer excited about creating helpful applications built on microservices to save users time and money.
 
 - 🔭 I’m currently working on React/Redux products
-- I’m currently learning Ruby/Rails
+- 🧐 I’m currently learning Ruby/Rails
 - 😄 Pronouns: (He/Him)
 
 ## About me
